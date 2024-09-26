@@ -23,7 +23,7 @@ This project scrapes historical foreign exchange data from Yahoo Finance, stores
 
 2. **Start the server **:
     ```bash
-    node app.js
+    node server.js
     ```
 
     The server will be accessible at `http://localhost:3001`.
